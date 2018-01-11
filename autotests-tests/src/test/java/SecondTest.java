@@ -11,7 +11,7 @@ public class SecondTest {
     public void testCalculationDiv() {
         Calculator calculator = new Calculator();
         int a = 10;
-        int b = 17;
+        int b = 19;
 
         int result = 0;
 
