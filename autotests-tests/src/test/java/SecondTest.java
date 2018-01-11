@@ -33,7 +33,7 @@ public class SecondTest {
     public void testCalculationDiv3() {
         Calculator calculator = new Calculator();
         int a = 10;
-        int b = 16;
+        int b = 17;
 
         int result = 0;
 

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="31c27976-9d7d-4fb0-a230-9f269b16f5e3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java" afterPath="$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SecondTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SecondTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
+            <state relative-caret-position="78">
               <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,8 +146,8 @@
         <option value="$PROJECT_DIR$/autotests-client/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/autotests-tests/src/test/java/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/autotests-tests/src/test/java/ModTest.java" />
-        <option value="$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java" />
         <option value="$PROJECT_DIR$/autotests-tests/src/test/java/SupTest.java" />
+        <option value="$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java" />
       </list>
     </option>
   </component>
@@ -435,7 +436,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513869277970</updated>
-      <workItem from="1513869281312" duration="9161000" />
+      <workItem from="1513869281312" duration="9369000" />
     </task>
     <servers />
   </component>
@@ -445,7 +446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9161000" />
+    <option name="totallyTimeSpent" value="9369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="804" extended-state="6" />
@@ -558,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/SupTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -588,8 +579,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
+        <state relative-caret-position="78">
           <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotests-tests/src/test/java/SecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
