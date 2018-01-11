@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: orf:junit:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/orf/junit/unknown/junit-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/orf/junit/unknown/junit-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/orf/junit/unknown/junit-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
