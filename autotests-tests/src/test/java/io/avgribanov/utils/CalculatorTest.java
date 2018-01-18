@@ -1,3 +1,6 @@
+package io.avgribanov.utils;
+
+import io.avgribanov.utils.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
